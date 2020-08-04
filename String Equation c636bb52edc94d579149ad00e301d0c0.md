@@ -36,4 +36,4 @@ A string equation
 
 ### Output:
 
-The number of doctors is 3.
+The number of doctors is 5.
